@@ -10,7 +10,6 @@ from openpyxl.utils import get_column_letter
 from COA import AKUN, KAS
 from akuntansi import filter_periode, saldo_per_akun, total_tipe
 from database import muat_jurnal
-from login import tombol_keluar
 
 # =====================================================================
 # 2. FUNGSI BANTU TAMPILAN
